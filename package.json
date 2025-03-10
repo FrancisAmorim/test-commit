@@ -1,0 +1,19 @@
+{
+  "name": "projeto",
+  "version": "1.0.0",
+  "description": "Aplicativo para controle de estoque",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FrancisAmorim/test-commit.git"
+  },
+  "author": "francis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FrancisAmorim/test-commit/issues"
+  },
+  "homepage": "https://github.com/FrancisAmorim/test-commit#readme"
+}
