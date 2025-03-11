@@ -1,1 +1,0 @@
-FACULDADE GRAN (http://faculdade.grancurosonline.com.br)
