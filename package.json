@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/FrancisAmorim/test-commit/issues"
   },
-  "homepage": "https://github.com/FrancisAmorim/test-commit#readme"
+  "homepage": "https://github.com/FrancisAmorim/test-commit#readme",
+  "dependencies": {
+    "mysql2": "^3.13.0"
+  }
 }
